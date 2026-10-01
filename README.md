@@ -3,20 +3,20 @@
   Beddel links-ka (Twitter, LinkedIn, Gmail, iwm.)
   ===================================================== -->
 
-<!-- ================= 1. BANNER (BACKGROUND + MAGAC QURUX BADAN) ================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Hussein%20Mohamud&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist&descSize=20&descAlignY=60&descColor=9ad1ff" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Hussein%20Mohamud&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist&descSize=20&descAlignY=60&descColor=9ad1ff" alt="Hussein Mohamud - Full Stack Developer | IT Specialist" />
 
-<!-- Magac / qoraal dhaqaaqaya (typing animation, font Orbitron) -->
+<!-- Typing animation (sidii hore) -->
 <a href="https://github.com/inamahamud693-code">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hussein+Mohamud+%F0%9F%91%8B;Full+Stack+Developer;IT+%26+Cloud+Enthusiast;Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=inamahamud693-code.inamahamud693-code&left_color=555555&right_color=0e75b6&left_text=Profile%20Views" alt="profile views" />
-<img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=flat&logo=github&color=238636" alt="followers" />
+<a href="https://github.com/inamahamud693-code"><img src="https://img.shields.io/badge/GitHub-inamahamud693--code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/inamahamud693-code?tab=followers"><img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/Location-Somalia-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Somalia" />
 
 </div>
 
@@ -90,7 +90,6 @@ const me = {
 
 ## 🛠️ Tech Stack
 
-<!-- 4 saf, mid walba 8 icon, dhammaan dhexda -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap&perline=8" alt="frontend" />
 </p>
@@ -106,25 +105,26 @@ const me = {
 
 <div align="center">
 
-<!-- Badges dheeraad ah -->
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SSMS" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=inamahamud693-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<a href="https://github.com/inamahamud693-code?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/inamahamud693-code?tab=stars"><img src="https://img.shields.io/badge/Starred-Repos-e3b341?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
+<a href="https://github.com/inamahamud693-code?tab=followers"><img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" /></a>
+<a href="https://github.com/inamahamud693-code?tab=following"><img src="https://img.shields.io/badge/Following-View-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Following" /></a>
 
 </div>
 
@@ -136,9 +136,9 @@ const me = {
 
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" alt="role" />
 <img src="https://img.shields.io/badge/Field-IT%20Specialist-238636?style=for-the-badge" alt="field" />
-<img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge" alt="learning" />
-<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-orange?style=for-the-badge" alt="cloud" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-8957e5?style=for-the-badge" alt="collab" />
+<img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge" alt="learning cybersecurity" />
+<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-orange?style=for-the-badge" alt="learning cloud" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-8957e5?style=for-the-badge" alt="collaboration" />
 
 </div>
 
@@ -166,7 +166,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing" />
+<b>Thanks for visiting my profile 🙏 Let's build something great together 🚀</b>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" />
 
