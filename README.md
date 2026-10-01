@@ -1,6 +1,6 @@
 <!-- =====================================================
   GITHUB PROFILE README
-  Beddel: YOUR_USERNAME iyo links-ka (eeg hoose)
+  Beddel links-ka (Twitter, LinkedIn, Gmail, iwm.)
   ===================================================== -->
 
 <!-- ================= 1. BANNER (BACKGROUND + MAGAC QURUX BADAN) ================= -->
@@ -9,14 +9,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Hussein%20Mohamud&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist&descSize=20&descAlignY=60&descColor=9ad1ff" alt="banner" />
 
 <!-- Magac / qoraal dhaqaaqaya (typing animation, font Orbitron) -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/inamahamud693-code">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hussein+Mohamud+%F0%9F%91%8B;Full+Stack+Developer;IT+%26+Cloud+Enthusiast;Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=238636" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=inamahamud693-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="followers" />
 
 </div>
 
@@ -62,7 +62,7 @@ const me = {
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80" width="100%" alt="coding setup" />
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&h=900&q=80" width="100%" alt="coding setup" />
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,linux,express,python,php&perline=12" alt="languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=html,css,js,,react,nextjs,tailwind,bootstrap,nodejs,linux,express,python,php&perline=12" alt="languages and frameworks" />
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,kubernetes,aws,azure,gcp,linux,bash,git&perline=12" alt="database, cloud and devops" />
 <br/>
@@ -118,24 +118,7 @@ const me = {
 
 <div align="center">
 
-<!-- Dashboard-ka dhexe (summary cards - aad u xasilloon) -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="profile details" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" alt="top languages by repo" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" alt="top languages by commit" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" alt="stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=3" alt="commits by time" />
-
-<br/>
-
-<!-- Stats & Streak (beddel xogta haddii mid ka shaqayn waayo) -->
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<br/><br/>
-
-<!-- Graph-ka shaqada sanadka -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=inamahamud693-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true" alt="GitHub stats" />
 
 </div>
 
@@ -145,7 +128,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=inamahamud693-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
 
 </div>
 
@@ -164,16 +147,4 @@ const me = {
 ## 🌱 Currently
 
 - 🔭 Working on **Full Stack projects**
-- 📚 Learning **Cybersecurity** and **Cloud Architecture**
-- 🤝 Open to **collaboration** and **open-source** contributions
-- 💬 Ask me about **Web Development, Databases, IT Support**
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" />
-
-</div>
+- 📚 Learning
