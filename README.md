@@ -126,6 +126,18 @@ const me = {
 <a href="https://github.com/inamahamud693-code?tab=followers"><img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" /></a>
 <a href="https://github.com/inamahamud693-code?tab=following"><img src="https://img.shields.io/badge/Following-View-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Following" /></a>
 
+<br/><br/>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamahamud693-code&layout=pie&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inamahamud693-code&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamahamud693-code&theme=tokyonight" width="97%" alt="GitHub Streak Stats" />
+</p>
+
 </div>
 
 ---
