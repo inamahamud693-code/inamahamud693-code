@@ -11,7 +11,7 @@ Full Stack Developer & Cloud Computing Enthusiast.
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,aws,gcp,vscode,git,github,netlify,linux,ps,figma" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,vscode,git,github,linux" alt="My Tech Stack" />
 </p>
 
 ---
