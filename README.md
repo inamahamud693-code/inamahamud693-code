@@ -4,6 +4,10 @@
 
 ## 📌 About Me
 
+<table>
+  <tr>
+    <td width="60%">
+
 ```javascript
 const husayn = {
     role: "Full Stack Developer",
