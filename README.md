@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=HUSAYN&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Computing%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=prussian&height=220&section=header&text=HUSSEIN&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Computing%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
+
 
 ## 📌 About Me
 
@@ -9,7 +10,7 @@
     <td width="60%">
 
 ```javascript
-const husayn = {
+const hussein = {
     role: "Full Stack Developer",
     location: "Somalia 🇸🇴",
     interests: [
