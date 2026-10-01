@@ -15,8 +15,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=inamahamud693-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="followers" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=inamahamud693-code.inamahamud693-code&left_color=555555&right_color=0e75b6&left_text=Profile%20Views" alt="profile views" />
+<img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=flat&logo=github&color=238636" alt="followers" />
 
 </div>
 
@@ -90,15 +90,21 @@ const me = {
 
 ## 🛠️ Tech Stack
 
+<!-- 4 saf, mid walba 8 icon, dhammaan dhexda -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap&perline=8" alt="frontend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,mongodb,firebase&perline=8" alt="backend and database" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,bash,git&perline=8" alt="cloud and devops" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,figma,postman,npm,vercel,terraform&perline=8" alt="tools" />
+</p>
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,,react,nextjs,tailwind,bootstrap,nodejs,linux,express,python,php&perline=12" alt="languages and frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,kubernetes,aws,azure,gcp,linux,bash,git&perline=12" alt="database, cloud and devops" />
-<br/>
-<img src="https://skillicons.dev/icons?i=github,githubactions,vscode,figma,postman,npm,vercel,terraform&perline=12" alt="tools" />
-
-<br/><br/>
 
 <!-- Badges dheeraad ah -->
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -124,11 +130,15 @@ const me = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=inamahamud693-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" alt="role" />
+<img src="https://img.shields.io/badge/Field-IT%20Specialist-238636?style=for-the-badge" alt="field" />
+<img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge" alt="learning" />
+<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-orange?style=for-the-badge" alt="cloud" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-8957e5?style=for-the-badge" alt="collab" />
 
 </div>
 
@@ -138,13 +148,26 @@ const me = {
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 **YouTube Clone** | Modern YouTube homepage: header, sidebar, video grid | `HTML` `CSS` |
-| 🚀 **Project 2** | Qor sharaxaad gaaban halkan | `React` `Node.js` |
-| 🛡️ **Project 3** | Qor sharaxaad gaaban halkan | `Python` `Linux` |
+| 🎬 **YouTube Clone** | Modern YouTube homepage with header, sidebar and a responsive video grid | `HTML` `CSS` |
+| 🗄️ **Database Management System** | Relational database design with tables, joins, queries and stored procedures | `SQL Server` `SSMS` `T-SQL` |
+| 🛡️ **Cybersecurity Home Lab** | Practice lab for network traffic analysis, Linux and security fundamentals | `Kali Linux` `Wireshark` `Linux` |
+| 🌐 **Personal Portfolio Website** | Responsive portfolio to showcase my projects, skills and contact info | `HTML` `CSS` `JavaScript` |
 
 ---
 
 ## 🌱 Currently
 
 - 🔭 Working on **Full Stack projects**
-- 📚 Learning
+- 📚 Learning **Cybersecurity** and **Cloud Architecture**
+- 🤝 Open to **collaboration** and **open-source** contributions
+- 💬 Ask me about **Web Development, Databases, IT Support**
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" />
+
+</div>
